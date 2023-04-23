@@ -1,0 +1,88 @@
+[
+    {
+        "id": 1,
+        "position": 1,
+        "startAt": "06-22-2018",
+        "endAt": "08-22-2018",
+        "companyName": "TOSAN",
+        "website": "https://www.tosan.com/en",
+        "logo": "assets/template/experience/logo/tosan-logo_en.png",
+        "internationalizations": [
+            {
+                "language": "en",
+                "city": "Tehran",
+                "country": "Iran",
+                "role": "Java intern",
+                "description": "<b>TOSAN</b> is a company focused in solutions for education, its main product is a set of solutions for studying for getting the <i>driver license</i>, among them, there are multimedia, online applications, mobile apps, books, and others.<br><br>At <i>TOSAN</i>, I got in touch with senior developers, learning best practices, patterns, and how to debate ideas and offer various solutions for the very same problem. It was the start point, a unique opportunity to turn theoretical knowledge into concrete solutions that were being used by hundreds of people every day."
+            }
+        ],
+        "technologies": [
+            "Java"
+        ],
+        "medias": [
+            {
+                "icon": "linkedin",
+                "title": "LinkedIn TOSAN",
+                "http": "https://www.linkedin.com/company/tosansolutions"
+            }
+        ],
+        "backgroundUrl": "assets/template/experience/tehran_1.jpg"
+    },
+    {
+        "id": 2,
+        "position": 2,
+        "startAt": "06-22-2019",
+        "endAt": "12-20-2020",
+        "companyName": "Pooya",
+        "website": "https://pooyaco.com/website/?page_id=951&lang=en",
+        "logo": "assets/template/experience/logo/pooya-logo_en.png",
+        "internationalizations": [
+            {
+                "language": "en",
+                "city": "Tehran",
+                "country": "Iran",
+                "role": "Desktop Application Developer",
+                "description": "<b>Pooya</b> is an agency specialized in solutions for <i>e-commerce</i>, digital marketing, and visual identity since 2008, working with large, small, and medium-sized businesses, offering to their clients the know-how in the integration of <i>enterprise resource planning (ERP)</i> and <i>third-party APIs</i>, such as custom <i>payment providers</i>. It does the integration of the internal management of the online platform and physical store, being certified by the main platforms in the market.<br><br>At <i>Pooya</i> I have worked to develop custom solutions for clients wholesale and retail, valuing the quality and continuity of projects in the medium and long term."
+            }
+        ],
+        "technologies": [
+            "C#", ".NET", "Entity", "SQL", "Version Control", "Agile"
+        ],
+        "medias": [
+            {
+                "icon": "linkedin",
+                "title": "LinkedIn Pooya",
+                "http": "https://www.linkedin.com/company/pooya-co-inc-"
+            }
+        ],
+        "backgroundUrl": "assets/template/experience/tehran_2.jpg"
+    },
+    {
+        "id": 3,
+        "position": 3,
+        "startAt": "10-29-2022",
+        "companyName": "Behsazan Mellat",
+        "website": "https://www.behsazan.com",
+        "logo": "assets/template/experience/logo/deevo-logo.png",
+        "internationalizations": [
+            {
+                "language": "en",
+                "city": "Tehran",
+                "country": "Iran",
+                "role": "Full-stack Developer",
+                "description": "<b>Behsazan Mellat</b> is a company specializing in <i>web design</i> and <i>development</i> with an extensive portfolio of cases, the result of <i>20 years</i> of experience with other agencies and the corporate market. Their creations involve everything from brand development and visual identity to the creation of applications and websites, with a wide knowledge of Wordpress and Web Technologies.<br><br>At <i>Behsazan Mellat</i>, I had the chance to use the previously back-end knowledge combined with practical experience in JAVA development to accept the challenge to start an <i>Android Development Department</i> in the company, delivering complex <i>Android Applications</i> to companies in Brazil."
+            }
+        ],
+        "technologies": [
+            "Java", "Spring Boot", "HTML5", "CSS3", "Bootstrap", "Javascript", "React", "jQuery", "Ajax" ,"SQL", "SQL Server", "DB2", "Stored Procedure", "Hibernate", "Versioni Control", "Agile" 
+        ],
+        "medias": [
+            {
+                "icon": "linkedin",
+                "title": "LinkedIn Behsazan Mellat",
+                "http": "https://www.linkedin.com/company/behsazan-mellat"
+            }
+        ],
+        "backgroundUrl": "assets/template/experience/tehran_3.jpg"
+    }
+]
